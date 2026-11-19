@@ -45,6 +45,19 @@ Graph analytics in C++ using BFS/DFS and shortest paths to study connectivity an
 
 **Focus areas:** Agentic AI · Multi-Agent Systems & MCP · RAG & Vector Search · Deep Learning · Data Science
 
+### 🎓 Coursework
+<details>
+<summary><b>CS & AI</b></summary>
+
+Data Structures · Algorithms · Advanced Programming · Foundations of AI & ML · Deep Learning · Agentic AI & LLMOps · Data Science · Network-Centric Computing · Theory of Automata · Fundamentals of Computer Systems · Operating Systems *(in progress)* · Cloud Development *(in progress)*
+</details>
+
+<details>
+<summary><b>Mathematics</b></summary>
+
+Calculus I & II · Linear Algebra I *(II in progress)* · Analysis I · Probability · Discrete Mathematics · Applied Probability *(in progress)*
+</details>
+
 ### 🌱 Beyond code
 - 🤝 Organizer, NOP Summer Coaching Session (2024–2026), supporting 100+ students from underprivileged backgrounds
 - 📐 Math & science tutor since 2023 (SAT/LCAT, IGCSE, IB)
